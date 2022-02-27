@@ -1,3 +1,5 @@
+package Contructores;
+
 public class Auto {
     static private String marca, modelo, color;
     static private int cfuerza; //Caballos de fuerza del motor
